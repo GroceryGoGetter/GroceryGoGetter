@@ -85,7 +85,7 @@ Optional:
    * Selecting account page -> navigate to account page to show favorites and basic account info
 
 ## Wireframes
-src="figma/GroceryGoGetterWireframe.pdf" width=600>
+src="/figma/GroceryGoGetterWireframe.pdf" width=600>
 
 ### Interactive Prototype
-src="figma/wireframe_walkthrough.gif" width=600>
+src="/figma/wireframe_walkthrough.gif" width=600>
