@@ -1,6 +1,3 @@
-Original App Design Project - README Template
-===
-
 # Grocery Go Getter
 
 ## Table of Contents
@@ -89,3 +86,20 @@ Optional:
 
 ### Interactive Prototype
 <img src="figma/wireframe_walkthrough.gif" width=300>
+
+## Schema
+Models
+
+Product
+| Property | Type | Description |
+| -------- | ---- | ----------- |
+| productName | String | Name of the product in inventory |
+| itemIcon | String | File path of the product stored |
+| amount | Number | The amount of that particular item |
+| expirationDate| DateTime | Expiration date of the item |
+
+User
+| Property | Type | Description |
+| -------- | ---- | ----------- |
+| username | String | Login for the user |
+| password | String | Unique credential for the user (will be hashed)|
